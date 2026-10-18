@@ -1,0 +1,6 @@
+{
+  "name": "ChordMood — Rule-Based Melody Generator",
+  "description": "Professional music composition studio generating original rule-based melodies, compatible chord progressions, FL Studio inspired Piano Roll, Web Audio synthesis, and MIDI/WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
